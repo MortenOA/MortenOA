@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MortenOA
-- 👀 I’m interested in mechanical engineering, topology optimization, machine learning etc. 
-- 🌱 I’m currently learning machine learning and topology optimization
+- 👀 I’m interested in mechanical engineering, topology optimization, programming, FE simulation, mathematics etc. 
+- 🌱 I’m currently learning ... new stuff everyday :D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... morten_andersen_800@hotmail.com
 
